@@ -1,3 +1,11 @@
+/*
+* "Oil Skimming", 2011 ICPC South Pacific Regionals problem J
+* LiveArchive problem #5691
+* Turn into a bipartite graph connecting neighboring nodes,
+* solve using a maximum flow algorithm
+* Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
+*/
+
 import java.util.*;
 import java.io.*;
 

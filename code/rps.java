@@ -1,3 +1,10 @@
+/*
+ * "Rock, Paper, or Scissors?", 2007 ICPC Pacific Northwest Regionals problem A
+ * LiveArchive problem #4065
+ * Determine which of two players win more games of Rock, Paper, Scissors
+ * Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
+ */
+
 import java.io.*;
 import java.util.*;
 

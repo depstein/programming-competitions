@@ -1,3 +1,11 @@
+/*
+ * "Selling Cells", 2010 ICPC Mid-Atlantic Regionals problem C
+ * LiveArchive problem #4916
+ * Uniformly sample points inside one circle (city limits),
+ * see if they intersect with other circles (cell towers)
+ * Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
+ */
+
 import java.util.*;
 import java.io.*;
 

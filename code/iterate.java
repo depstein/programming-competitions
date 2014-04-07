@@ -1,3 +1,9 @@
+/*
+ * Iteration example code
+ * This code DOES NOT WORK. It was created to demonstrate a common pitfall.
+ * Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
+ */
+
 import java.io.*;
 import java.util.*;
 

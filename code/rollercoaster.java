@@ -1,3 +1,11 @@
+/*
+ * "Roller Coaster", 2010 ICPC Mid-Atlantic Regionals problem F
+ * LiveArchive problem #4870
+ * Use Dynamic Programming to find the minimum amount of dizziness
+ * possible for each amount of "fun" through each section of track
+ * Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
+ */
+
 import java.io.*;
 import java.util.*;
 
