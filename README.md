@@ -1,10 +1,8 @@
-#10 reasons why YOU should care about programming competitions
+#Programming Competition Resources
 
-### Developed by [Daniel Epstein](http://www.depstein.net/) ([@daepstein](http://www.twitter.com/daepstein))
+This provides resources to aid in preparation of programming competitions. This focuses on ACM International Collegiate Programming Competition (ICPC), solving problems available on the ICPC [Live Archive](https://icpcarchive.ecs.baylor.edu/).
 
-#### Presented to [UW ACM](http://flatline.cs.washington.edu/orgs/acm/) on April 10th, 2014
-
-In this talk, I covered why programming competitions will make you a better software developer and programmer, help you find a job, and most importantly, why they're tons of fun! I offered some tips for clever problem solving, went through problems from previous contests and their solutions, and demonstrated some common pitfalls.
+The presentations are being made to the [UW ACM](http://flatline.cs.washington.edu/orgs/acm/) by [Daniel Epstein](http://depstein.net/).
 
 ##Additional Resources
 
