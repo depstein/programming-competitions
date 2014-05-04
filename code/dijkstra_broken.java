@@ -1,12 +1,13 @@
 /*
  * Dijkstra example code
+ * This code DOES NOT WORK. It was created to demonstrate a common pitfall.
  * Daniel Epstein, depstein AT cs DOT washington DOT edu, @daepstein
  */
 
 import java.io.*;
 import java.util.*;
 
-public class dijkstra {
+public class dijkstra_broken {
 
   public static void main(String[] args) {
     Node a = new Node();
@@ -21,22 +22,21 @@ public class dijkstra {
     d.edges.put(e, 1);
     ArrayList<Node> allNodes = new ArrayList<Node>(Arrays.asList(new Node[]{e, d, c, b, a}));
     dijkstra(a, allNodes);
-    System.out.printf("Distance to Node e is: %d\n", e.distance);
+    System.out.printf("Distance to Node e is: %d\n", e.distance);//Distance to Node e is: -2147483648 --whaa?
   }
 
   public static void dijkstra(Node root, ArrayList<Node> allNodes) {
     PriorityQueue<Node> q = new PriorityQueue<Node>();
     root.distance = 0;
-    q.add(root);
+    //Add all nodes to the priority queue
+    for(Node n : allNodes) {
+      q.add(n);
+    }
 
     while(q.size() > 0) {
       Node u = q.poll();
       for(Node n : u.edges.keySet()) {
-        if(n.distance == Integer.MAX_VALUE) { // Update the distance to node n
-          q.remove(n);
-        }
         n.distance = Math.min(n.distance, u.distance + u.edges.get(n));
-        q.add(n);
       }
     }
   }
