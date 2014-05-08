@@ -62,8 +62,8 @@ public class prims {
         }
       }
     }
-
   }
+  
 }
 
 class Node implements Comparable<Node> {
