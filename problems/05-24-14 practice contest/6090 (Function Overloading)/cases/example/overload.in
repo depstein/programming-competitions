@@ -1,0 +1,18 @@
+f 2 A B C
+f 2 A A C
+f 2 A A A
+g 2 A B A
+g 2 B A A
+x 1 A A
+x 1 A B
+y 1 A C
+y 1 B C
+h 2 A B E
+h 2 C D F
+k 2 E F A
+#
+A = g 2 B f 2 A A
+B = g 2 A f 2 A B
+C = y 1 x 1 A
+A = k 2 h 2 A B h 2 C D
+#

@@ -1,0 +1,8 @@
+Case 1:
+Patient 30 released at clock = 95
+Patient 10 released at clock = 100
+Patient 110 released at clock = 120
+Case 2:
+Patient 30 released at clock = 70
+Patient 10 released at clock = 80
+Patient 110 released at clock = 120

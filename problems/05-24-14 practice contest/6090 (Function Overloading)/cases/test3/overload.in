@@ -1,0 +1,91 @@
+f 1 X A
+f 1 X B
+f 1 X C
+f 1 X D
+f 1 X E
+f 1 X F
+f 1 X G
+f 1 X H
+f 1 X I
+f 1 X J
+g 1 A X
+g 1 B X
+g 1 C X
+g 1 D X
+g 1 E X
+g 1 F X
+g 1 G X
+g 1 H X
+g 1 I X
+g 1 J X
+a 1 X A
+a 1 X B
+a 1 X C
+a 1 X D
+a 1 X E
+a 1 X F
+a 1 X G
+b 1 A Y
+b 1 B Y
+b 1 C Y
+b 1 D Y
+b 1 E Y
+b 1 F Y
+b 1 G Y
+c 1 Y A
+c 1 Y B
+c 1 Y C
+c 1 Y D
+c 1 Y E
+c 1 Y F
+c 1 Y G
+c 1 Y H
+c 1 Y I
+c 1 Y J
+c 1 Y K
+d 1 A Z
+d 1 B Z
+d 1 C Z
+d 1 D Z
+d 1 E Z
+d 1 F Z
+d 1 G Z
+d 1 H Z
+d 1 I Z
+d 1 J Z
+d 1 K Z
+h 1 Z A
+h 1 Z B
+h 1 Z C
+h 1 Z D
+h 1 Z E
+h 1 Z F
+h 1 Z G
+h 1 Z H
+h 1 Z I
+h 1 Z J
+h 1 Z K
+h 1 Z L
+h 1 Z M
+i 1 A Z
+i 1 B Z
+i 1 C Z
+i 1 D Z
+i 1 E Z
+i 1 F Z
+i 1 G Z
+i 1 H Z
+i 1 I Z
+i 1 J Z
+i 1 K Z
+i 1 L Z
+i 1 M Z
+#
+X = g 1 f 1 X
+X = g 1 f 1 g 1 f 1 X
+X = g 1 f 1 g 1 f 1 g 1 f 1 X
+X = g 1 f 1 g 1 f 1 g 1 f 1 g 1 f 1 X
+Y = b 1 a 1 X
+Z = d 1 c 1 b 1 a 1 X
+Z = i 1 h 1 d 1 c 1 b 1 a 1 X
+#

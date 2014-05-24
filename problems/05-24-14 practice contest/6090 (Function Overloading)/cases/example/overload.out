@@ -1,0 +1,4 @@
+A = g2 2 B f3 2 A A
+impossible
+ambiguous 2
+A = k1 2 h1 2 A B h2 2 C D

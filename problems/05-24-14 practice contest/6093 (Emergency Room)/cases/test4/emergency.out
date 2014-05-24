@@ -1,0 +1,56 @@
+Case 1:
+Patient 150 released at clock = 200
+Patient 41 released at clock = 205
+Patient 191 released at clock = 251
+Patient 294 released at clock = 330
+Case 2:
+Patient 43 released at clock = 199
+Patient 124 released at clock = 237
+Patient 168 released at clock = 263
+Patient 303 released at clock = 326
+Patient 430 released at clock = 513
+Case 3:
+Patient 85 released at clock = 213
+Patient 199 released at clock = 224
+Patient 125 released at clock = 281
+Patient 347 released at clock = 377
+Patient 414 released at clock = 441
+Patient 457 released at clock = 531
+Patient 497 released at clock = 579
+Case 4:
+Patient 85 released at clock = 172
+Patient 309 released at clock = 386
+Patient 365 released at clock = 409
+Patient 400 released at clock = 433
+Case 5:
+Patient 227 released at clock = 314
+Patient 296 released at clock = 367
+Patient 302 released at clock = 383
+Patient 318 released at clock = 411
+Patient 366 released at clock = 456
+Patient 468 released at clock = 470
+Case 6:
+Patient 125 released at clock = 159
+Patient 176 released at clock = 186
+Patient 118 released at clock = 228
+Patient 357 released at clock = 455
+Patient 466 released at clock = 473
+Case 7:
+Patient 271 released at clock = 340
+Case 8:
+Patient 224 released at clock = 243
+Patient 265 released at clock = 290
+Patient 351 released at clock = 445
+Patient 452 released at clock = 474
+Patient 489 released at clock = 554
+Case 9:
+Patient 228 released at clock = 294
+Case 10:
+Patient 122 released at clock = 211
+Patient 30 released at clock = 229
+Patient 189 released at clock = 259
+Patient 238 released at clock = 274
+Patient 264 released at clock = 278
+Patient 229 released at clock = 305
+Patient 341 released at clock = 346
+Patient 429 released at clock = 473

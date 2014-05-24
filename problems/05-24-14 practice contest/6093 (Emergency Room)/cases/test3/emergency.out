@@ -1,0 +1,64 @@
+Case 1:
+Patient 294 released at clock = 944
+Patient 119 released at clock = 1249
+Patient 284 released at clock = 2700
+Patient 12 released at clock = 3158
+Patient 114 released at clock = 3273
+Case 2:
+Patient 7 released at clock = 186
+Patient 470 released at clock = 973
+Patient 151 released at clock = 1646
+Patient 212 released at clock = 2612
+Patient 146 released at clock = 2843
+Patient 298 released at clock = 3599
+Patient 409 released at clock = 3875
+Patient 322 released at clock = 4824
+Case 3:
+Patient 301 released at clock = 950
+Patient 434 released at clock = 1963
+Patient 470 released at clock = 2484
+Patient 137 released at clock = 3039
+Patient 119 released at clock = 3335
+Patient 155 released at clock = 4612
+Patient 235 released at clock = 4953
+Case 4:
+Patient 483 released at clock = 1830
+Patient 334 released at clock = 2139
+Patient 291 released at clock = 3122
+Patient 52 released at clock = 5110
+Case 5:
+Patient 295 released at clock = 792
+Patient 270 released at clock = 1612
+Patient 284 released at clock = 4374
+Case 6:
+Patient 188 released at clock = 803
+Patient 470 released at clock = 1000
+Case 7:
+Patient 62 released at clock = 701
+Patient 139 released at clock = 1621
+Patient 330 released at clock = 2209
+Patient 56 released at clock = 2780
+Patient 115 released at clock = 2926
+Patient 40 released at clock = 4054
+Patient 258 released at clock = 4465
+Patient 319 released at clock = 4695
+Patient 215 released at clock = 5387
+Case 8:
+Patient 216 released at clock = 344
+Patient 252 released at clock = 375
+Patient 20 released at clock = 576
+Patient 112 released at clock = 1981
+Patient 485 released at clock = 3077
+Patient 488 released at clock = 4377
+Patient 191 released at clock = 4982
+Patient 222 released at clock = 5275
+Case 9:
+Patient 112 released at clock = 4164
+Case 10:
+Patient 124 released at clock = 461
+Patient 92 released at clock = 598
+Patient 287 released at clock = 1645
+Patient 283 released at clock = 2424
+Patient 103 released at clock = 3420
+Patient 204 released at clock = 4019
+Patient 236 released at clock = 5484

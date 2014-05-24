@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Problem H: Trees</title>
+    <style type="text/css"><!--
+			      html { margin-left: 4em; }
+			      h1 { margin-left: -2em; font-size: 14pt; }
+			      tt,pre { font-weight: bold; font-size: 12pt; }
+			      .image { text-align: center; border: 1px solid black; margin: 1em; }
+			      .left { float: left; }
+			      .right { float: right; }
+			      .break { page-break-before: always; }
+			     --></style>
+  </head><body>
+    <h1>Problem H: Trees</h1>
+
+    <br/><b>Source:</b> <tt>trees.{c,cpp,java}</tt>
+    <p>
+      A graph consists of a set of vertices and edges between pairs of vertices. Two vertices are connected if there is a path (subset of edges) leading from one vertex to another, and a connected component is a maximal subset of vertices that are all connected to each other. A graph consists of one or more connected components.
+    </p>
+    <p>
+      A tree is a connected component without cycles, but it can also be characterized in other ways. For example, a tree consisting of n vertices has exactly n-1 edges. Also, there is a unique path connecting any pair of vertices in a tree.
+    </p>
+    <p>
+      Given a graph, report the number of connected components that are also trees.
+    </p>
+    <h1>Input</h1>
+
+    <p>
+      The input consists of a number of cases. Each case starts with two non-negative integers <tt>n</tt> and <tt>m</tt>, satisfying <tt>n &le; 500</tt> and <tt>m &le; n(n-1)/2</tt>. This is followed by m lines, each containing two integers specifying the two distinct vertices connected by an edge. No edge will be specified twice (or given again in a different order). The vertices are labelled <tt>1</tt> to <tt>n</tt>. The end of input is indicated by a line containing <tt>n = m = 0</tt>.
+    </p>
+
+    <h1>Output</h1>
+    <p>
+      For each case, print one of the following lines depending on how many different connected components are trees (T > 1 below):
+      <pre>
+	Case x: A forest of T trees.
+	Case x: There is one tree.
+	Case x: No trees.
+      </pre>
+
+    <p>
+      <tt>x</tt> is the case number (starting from 1).
+    </p>
+
+    <h1 class="break">Sample Input</h1>
+    <pre>
+6 3
+1 2
+2 3
+3 4
+6 5
+1 2
+2 3
+3 4
+4 5
+5 6
+6 6
+1 2
+2 3
+1 3
+4 5
+5 6
+6 4
+0 0
+    </pre>
+
+    <h1>Sample Output</h1>
+    <pre>
+Case 1: A forest of 3 trees.
+Case 2: There is one tree.
+Case 3: No trees.
+    </pre>
+  </body>
+</html>
