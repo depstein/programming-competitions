@@ -6,6 +6,8 @@ The presentations are being made to the [UW ACM](http://flatline.cs.washington.e
 
 The practice contest run on May 24, 2014 utilized problems from the [2012 ACM Rocky Mountain Regional](http://org.coloradomesa.edu/acm/rmrc/2012/index.html).
 
+The practice contest run on October 4, 2014 utilized problems from the [2013 ACM South Central Regional](http://acm2013.cct.lsu.edu/).
+
 ##Additional Resources
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/): contains nearly every problem from a regional or world finals competition. THE single best resource for finding practice problems.
