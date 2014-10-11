@@ -1,0 +1,350 @@
+Case 1:
+6 pencils for 6 cents
+1 at four cents each
+3 at two for a penny
+2 at four for a penny
+
+Case 2:
+10 pencils for 10 cents
+No solution found.
+
+Case 3:
+14 pencils for 14 cents
+No solution found.
+
+Case 4:
+20 pencils for 20 cents
+3 at four cents each
+15 at two for a penny
+2 at four for a penny
+
+Case 5:
+25 pencils for 25 cents
+4 at four cents each
+15 at two for a penny
+6 at four for a penny
+
+Case 6:
+40 pencils for 40 cents
+6 at four cents each
+30 at two for a penny
+4 at four for a penny
+
+7 at four cents each
+15 at two for a penny
+18 at four for a penny
+
+Case 7:
+47 pencils for 47 cents
+7 at four cents each
+36 at two for a penny
+4 at four for a penny
+
+8 at four cents each
+21 at two for a penny
+18 at four for a penny
+
+9 at four cents each
+6 at two for a penny
+32 at four for a penny
+
+Case 8:
+75 pencils for 75 cents
+11 at four cents each
+60 at two for a penny
+4 at four for a penny
+
+12 at four cents each
+45 at two for a penny
+18 at four for a penny
+
+13 at four cents each
+30 at two for a penny
+32 at four for a penny
+
+14 at four cents each
+15 at two for a penny
+46 at four for a penny
+
+Case 9:
+100 pencils for 100 cents
+15 at four cents each
+75 at two for a penny
+10 at four for a penny
+
+16 at four cents each
+60 at two for a penny
+24 at four for a penny
+
+17 at four cents each
+45 at two for a penny
+38 at four for a penny
+
+18 at four cents each
+30 at two for a penny
+52 at four for a penny
+
+19 at four cents each
+15 at two for a penny
+66 at four for a penny
+
+Case 10:
+125 pencils for 125 cents
+18 at four cents each
+105 at two for a penny
+2 at four for a penny
+
+19 at four cents each
+90 at two for a penny
+16 at four for a penny
+
+20 at four cents each
+75 at two for a penny
+30 at four for a penny
+
+21 at four cents each
+60 at two for a penny
+44 at four for a penny
+
+22 at four cents each
+45 at two for a penny
+58 at four for a penny
+
+23 at four cents each
+30 at two for a penny
+72 at four for a penny
+
+24 at four cents each
+15 at two for a penny
+86 at four for a penny
+
+Case 11:
+150 pencils for 150 cents
+22 at four cents each
+120 at two for a penny
+8 at four for a penny
+
+23 at four cents each
+105 at two for a penny
+22 at four for a penny
+
+24 at four cents each
+90 at two for a penny
+36 at four for a penny
+
+25 at four cents each
+75 at two for a penny
+50 at four for a penny
+
+26 at four cents each
+60 at two for a penny
+64 at four for a penny
+
+27 at four cents each
+45 at two for a penny
+78 at four for a penny
+
+28 at four cents each
+30 at two for a penny
+92 at four for a penny
+
+29 at four cents each
+15 at two for a penny
+106 at four for a penny
+
+Case 12:
+175 pencils for 175 cents
+26 at four cents each
+135 at two for a penny
+14 at four for a penny
+
+27 at four cents each
+120 at two for a penny
+28 at four for a penny
+
+28 at four cents each
+105 at two for a penny
+42 at four for a penny
+
+29 at four cents each
+90 at two for a penny
+56 at four for a penny
+
+30 at four cents each
+75 at two for a penny
+70 at four for a penny
+
+31 at four cents each
+60 at two for a penny
+84 at four for a penny
+
+32 at four cents each
+45 at two for a penny
+98 at four for a penny
+
+33 at four cents each
+30 at two for a penny
+112 at four for a penny
+
+34 at four cents each
+15 at two for a penny
+126 at four for a penny
+
+Case 13:
+200 pencils for 200 cents
+29 at four cents each
+165 at two for a penny
+6 at four for a penny
+
+30 at four cents each
+150 at two for a penny
+20 at four for a penny
+
+31 at four cents each
+135 at two for a penny
+34 at four for a penny
+
+32 at four cents each
+120 at two for a penny
+48 at four for a penny
+
+33 at four cents each
+105 at two for a penny
+62 at four for a penny
+
+34 at four cents each
+90 at two for a penny
+76 at four for a penny
+
+35 at four cents each
+75 at two for a penny
+90 at four for a penny
+
+36 at four cents each
+60 at two for a penny
+104 at four for a penny
+
+37 at four cents each
+45 at two for a penny
+118 at four for a penny
+
+38 at four cents each
+30 at two for a penny
+132 at four for a penny
+
+39 at four cents each
+15 at two for a penny
+146 at four for a penny
+
+Case 14:
+225 pencils for 225 cents
+33 at four cents each
+180 at two for a penny
+12 at four for a penny
+
+34 at four cents each
+165 at two for a penny
+26 at four for a penny
+
+35 at four cents each
+150 at two for a penny
+40 at four for a penny
+
+36 at four cents each
+135 at two for a penny
+54 at four for a penny
+
+37 at four cents each
+120 at two for a penny
+68 at four for a penny
+
+38 at four cents each
+105 at two for a penny
+82 at four for a penny
+
+39 at four cents each
+90 at two for a penny
+96 at four for a penny
+
+40 at four cents each
+75 at two for a penny
+110 at four for a penny
+
+41 at four cents each
+60 at two for a penny
+124 at four for a penny
+
+42 at four cents each
+45 at two for a penny
+138 at four for a penny
+
+43 at four cents each
+30 at two for a penny
+152 at four for a penny
+
+44 at four cents each
+15 at two for a penny
+166 at four for a penny
+
+Case 15:
+256 pencils for 256 cents
+37 at four cents each
+213 at two for a penny
+6 at four for a penny
+
+38 at four cents each
+198 at two for a penny
+20 at four for a penny
+
+39 at four cents each
+183 at two for a penny
+34 at four for a penny
+
+40 at four cents each
+168 at two for a penny
+48 at four for a penny
+
+41 at four cents each
+153 at two for a penny
+62 at four for a penny
+
+42 at four cents each
+138 at two for a penny
+76 at four for a penny
+
+43 at four cents each
+123 at two for a penny
+90 at four for a penny
+
+44 at four cents each
+108 at two for a penny
+104 at four for a penny
+
+45 at four cents each
+93 at two for a penny
+118 at four for a penny
+
+46 at four cents each
+78 at two for a penny
+132 at four for a penny
+
+47 at four cents each
+63 at two for a penny
+146 at four for a penny
+
+48 at four cents each
+48 at two for a penny
+160 at four for a penny
+
+49 at four cents each
+33 at two for a penny
+174 at four for a penny
+
+50 at four cents each
+18 at two for a penny
+188 at four for a penny
+
+51 at four cents each
+3 at two for a penny
+202 at four for a penny
+

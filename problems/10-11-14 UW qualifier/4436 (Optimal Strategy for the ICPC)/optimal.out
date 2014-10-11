@@ -1,0 +1,100 @@
+Data set 1: A B C D E F G H I J K L M N O 15 45
+Data set 2: A B C D E F G H I J K L 12 2250
+Data set 3: A 1 1
+Data set 4: A 1 300
+Data set 5: A B C 3 900
+Data set 6: A B C D E F G H I J K L M N O 15 270
+Data set 7: O N C D J B F I K M A G E H 14 997
+Data set 8: M K I D H B A O N C G J E F L 15 1685
+Data set 9: A H L E D G F O I J B C N K M 15 1878
+Data set 10: J C I O D F G K A E M L N H 14 1200
+Data set 11: M H G J E B C I K L A N D F O 15 1737
+Data set 12: G K J C E D I O A B L M F H N 15 1535
+Data set 13: F B C G D N J O K A H M L I 14 1295
+Data set 14: G D H M C F K A J L E O B I N 15 1789
+Data set 15: D G N C B K J E F H O L A I M 15 1848
+Data set 16: I N E G M A D F J K O B C H 14 1321
+Data set 17: K I L C O J B F H E A M D G N 15 1796
+Data set 18: K N A L I G D E F M C H B J 14 1448
+Data set 19: D F G I L A O B C H E J K N 14 1572
+Data set 20: I D E C J B F H N G O K A L M 15 1602
+Data set 21: A E N M O F D B K G H J L C I 15 1886
+Data set 22: L H B G M K O N D J A E F I 14 1076
+Data set 23: E L F K H C J N D M G I A B O 15 1773
+Data set 24: K F A H O E L D I J N B G C M 15 1596
+Data set 25: F H N J M D I O B E A C K L 14 1512
+Data set 26: K I H C L N G J D O B E A F M 15 1780
+Data set 27: L F H I J B E K N M C D A G O 15 1692
+Data set 28: C L E I K A F J N D H G M O 14 1639
+Data set 29: G A B H L K E O J D M C F I N 15 1731
+Data set 30: J F I L H K O E B A G N M D C 15 1698
+Data set 31: I J D K M F N B A E G C L O 14 1273
+Data set 32: A J H I L M K C B D G E F N O 15 1703
+Data set 33: K B E F G O L J N D A H C I M 15 1809
+Data set 34: M B D I J C F N O K L A G E 14 1469
+Data set 35: J M I K H G C E A F L B D N 14 1706
+Data set 36: K O E M C D F G J B L H I A N 15 1626
+Data set 37: O I A L N C F G D J E K B H 14 1480
+Data set 38: A H D N L G E K C F J B I M O 15 1703
+Data set 39: B M D K O L G H J I N E A C F 15 1701
+Data set 40: J H G D I F K O B L M N A C 14 1311
+Data set 41: F C D B G K E N L J H A I M 14 1419
+Data set 42: C M D E O K L N F H B J I G A 15 1595
+Data set 43: C A J L O I F K B G H E M N 14 1323
+Data set 44: I J N A O E D H K G C M B F L 15 1670
+Data set 45: D I E G J L F B A H M O K N C 15 1493
+Data set 46: D F H C L G K E A I B J M 13 1332
+Data set 47: I N A D E L J C F B G H K M 14 1883
+Data set 48: L E B G N C H M K F D I J A 14 1714
+Data set 49: C H A N F D M J E L O G I K 14 1449
+Data set 50: B C H O E F L J D A K G I M N 15 1895
+Data set 51: H F L M C B D E J A I K G 13 1520
+Data set 52: E N O D H F K A C G J B L I 14 1584
+Data set 53: B G M D L N F A O K C J E H I 15 1813
+Data set 54: E G D H N J M I C K B L O F A 15 1643
+Data set 55: B G F O J C I M A D H E N K 14 1590
+Data set 56: G L N B I A E C J H O M D F K 15 1819
+Data set 57: A C E M D I L B F H K G N O J 15 1660
+Data set 58: B D F M J O C H E K I G L N 14 1355
+Data set 59: F A H G J C M E K N L B D I O 15 1502
+Data set 60: H M I G K N L F B E D J A C 14 1822
+Data set 61: N J A M D E L F H K B I G 13 1541
+Data set 62: H O C E B J I L F K D N A G M 15 1844
+Data set 63: E N B J F H A K G D L M O I C 15 1802
+Data set 64: M A B D K E J L G F H C O N 14 1141
+Data set 65: G I F O K L D J A B C E H M N 15 1844
+Data set 66: N F C M G K L D B I A J H E O 15 1748
+Data set 67: O I F D C E L K M G J A N H 14 1279
+Data set 68: G J K L A C N B F D H E I M 14 1709
+Data set 69: L B E I J K H A N D O M C G F 15 1800
+Data set 70: M L C A J E B D G H K F N O 14 1355
+Data set 71: M N C K J E H F D B O A G I L 15 1860
+Data set 72: E H D M I A N J O F K C L B G 15 1775
+Data set 73: J N C D F B K H E M L I A O 14 1482
+Data set 74: G O B J K N E H L I F D A C M 15 1809
+Data set 75: J L E N O G H C M D A I B F K 15 1773
+Data set 76: F A L D H J M C E K G B I 13 1170
+Data set 77: I D F L G K B H O N J C A E M 15 1673
+Data set 78: C B L H M N J F A I K E G D O 15 1615
+Data set 79: B C H N J L F D G K A E M 13 1062
+Data set 80: D F G B I H E C M J L O A K N 15 1815
+Data set 81: G B E K I L D N O H J M F A C 15 1759
+Data set 82: G O M E J D B L A F N C H I 14 1551
+Data set 83: N E H C A K O I L M B G D F J 15 1714
+Data set 84: O I J B L E A G H M C D K N F 15 1852
+Data set 85: C I E H F G M N A B L D J K 14 1343
+Data set 86: C H F L I M J B O E K D A G N 15 1839
+Data set 87: G L D N C E M F B O I K J A H 15 1560
+Data set 88: L N G I J C O F A B M D E H 14 1653
+Data set 89: G I K O E C A F L B J D H M N 15 1765
+Data set 90: M K N H C G J E B D A F O I L 15 1624
+Data set 91: K D C H F B O L E J N G M I 14 1224
+Data set 92: C G E A J F K M I D B H L 13 2024
+Data set 93: E J O M D B F K N L G I A C H 15 1829
+Data set 94: J L F I O B D K G H M A C E 14 1547
+Data set 95: I H L O G E K N C D A M B F J 15 1873
+Data set 96: E K C H J D I A N L O F G M B 15 1721
+Data set 97: L A H I K B E G D M F C N J 14 1323
+Data set 98: G C F H B N O L M J A D E I K 15 1663
+Data set 99: C E L I D J G M K F A O B N H 15 1535
+Data set 100: I D F G K B E J A C N L H M 14 1133

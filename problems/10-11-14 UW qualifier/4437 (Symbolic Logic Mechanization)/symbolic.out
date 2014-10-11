@@ -1,0 +1,32 @@
+q is valid: contingent
+Cp is invalid: insufficient operands
+Cpq is valid: contingent
+A01 is invalid: invalid character
+Cpqr is invalid: extraneous text
+ANpp is valid: tautology
+KNpp is valid: contradiction
+Qad is invalid: invalid character
+CKNppq is valid: tautology
+JDpqANpNq is valid: contradiction
+CDpwANpNq is valid: contingent
+EDpqANpNq is valid: tautology
+KCDpqANpNqCANpNqDpq is valid: tautology
+Nb is valid: contingent
+Eaa is valid: tautology
+DaNa is valid: tautology
+KApNqANpq is valid: contingent
+CDabAaJcDdNa is valid: contingent
+CDabAaJcDdNaa is invalid: extraneous text
+CbKaKbAJCaAbca is invalid: insufficient operands
+CbKaKbAJCaAbcaa is valid: contingent
+KKANqNpAqNpKApNqpq is invalid: extraneous text
+CDNJADJKAaEaaabDcddcCcAdDNCadNEbcEcc is valid: tautology
+NCaAaEKbcDKDAdKJcNAeadaeJANEcKAafecc is valid: contradiction
+KEKaNEJDCNbcAabJcdEbaCdKeDfKaKdcd is valid: contingent
+JEACaaDCCaEbbAAEbNACbcbdANKcAeKbJDJddfaDafDbecc is valid: contradiction
+AaCKKDCbNACabcAKJabdKNdAECKNbeAaNDbAdNbCAEfDDbabfCgbDfJNDaEAACedeJDgKJfdefcaadNAgc is valid: tautology
+CAbCEDaaCJbbECAKaJDKJaCEaaccdJAbceKKJcabcAcDaEJNAfJKCafcaKEJDNCeaENdENAbcbNfAEEfNeCKcCaCbCfcDJCfdKecbEKCJfKgNdhaAeNcihceEaa is valid: tautology
+JKNJKbNJbcDNNAbJbKEAKCDEAaacJdDdEefENecgfAECECeCJcKcNNDhfdNCCAbEJhiECbgDhNeJcKAKAJicEJfCDeecjNhjjJbhCJKKJbdhcCJhdEKAgdADNjbjKNDaAKbhaaNecAiCjhdehi is valid: contingent
+KAaEAaCEEDaDabbEaaKKaaENKEaNcCEAcKbadJDaaNCaDcDEDcbAebNKdJfDJJfNcJKdCKACfdfabeKecEKJDJdAaedgfKbDdKhcNKagKNaa is valid: contradiction
+DAKaKAbCNbAcDaEEJccJbKKEdADKdKcKCAKcdDNceJafKgfEeChADEchDDhEeNeNNEKagAaDeggJabJAagceACJDidcfNahEdig is valid: contingent
+EDaCCEKEJbaDbJacACaCEbCNdaadDdKJACNEEEAcDKbeNDAdcabDeKJCCDEJCKbfEAKfJeENbAbbeddfbENEKfeEbAeAbAcefAgagKDNNdfhKhfKEDhcCAiEediAjcajAJcDKeEJhNjEAjEDhfbdceEEaiACEDbcdJiigJgfEhKAbENEEJKJAJJDEcaKDaJdDDCdJeADNNceabNCdDbNeabdNeECNbccaaaCEfDbdNDgdaAbDCccKNNbKaDNcb is valid: contingent
