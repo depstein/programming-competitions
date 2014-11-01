@@ -10,6 +10,8 @@ The practice contest run on October 4, 2014 utilized problems from the [2013 ACM
 
 The UW local qualifier contest run on October 11, 2014 utilized problems from the [2008 ACM Pacific Northwest Regional](http://www.acmicpc-pacnw.org/results.htm).
 
+The practice contest run on November 1, 2014 utilized problems from the [2013 ACM East Central Regional](http://www.csis.ysu.edu/acm-ecna/problemset.html).
+
 ##Additional Resources
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/): contains nearly every problem from a regional or world finals competition. THE single best resource for finding practice problems.
