@@ -16,6 +16,8 @@ The UW local qualifier contest run on October 24, 2015 utilized problems from th
 
 The practice contest run on November 8, 2015 utilized problems from the [2014 ACM Mid Central Regional](http://www.icpc-midcentral.us/archives/2014/mcpc2014/browse.html).
 
+The UW local qualifier contest run on October 22, 2016 utilized problems from the [2015 ACM Rocky Mountain Regional](http://org.coloradomesa.edu/~wmacevoy/rmrc/2015/index.html).
+
 ##Additional Resources
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/): contains nearly every problem from a regional or world finals competition. THE single best resource for finding practice problems.
